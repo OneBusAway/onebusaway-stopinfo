@@ -5,6 +5,6 @@ The StopInfo application is a Ruby on Rails web app with an SQL backend.
 original information source and may contain other prototype-related temporary hacks 
 and design flaws.'' It is not suited for multi-region use in its current state.
 
-The live KCM version of the code runs on helsinki, /var/www/sites/stopinfo. To 
+The live KCM version of the code runs on helsinki.cs.washington.edu from the directory /var/www/sites/stopinfo. To 
 change the http://stopinfo.pugetsound.onebusaway.org/ site all changes must be 
 pulled into this directory.
