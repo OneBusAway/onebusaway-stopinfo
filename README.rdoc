@@ -1,5 +1,7 @@
 == StopInfo
 
+This application has grown stale and has several active security vulnerabilities.  Use at your own risk, or better yet, send a pull request!
+
 The StopInfo application is a Ruby on Rails web app with an SQL backend. 
 ''Caveat: the site evolved from an early prototype and as such is heavily tailored to the 
 original information source and may contain other prototype-related temporary hacks 
